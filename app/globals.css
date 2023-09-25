@@ -14,3 +14,12 @@ body {
   text-decoration: none;
   margin: 0 10px;
 }
+
+.product-card {
+  padding: 5px 10px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  margin: 10px;
+  max-width: 200px;
+}
